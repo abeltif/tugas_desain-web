@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>  CSS WEBSITE LAYOUT </title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+	<meta name="viewport" contect="width=device-width,inisial scale=1">
+</head>
+<body>
+	<div class="fixed-nav">
+
+	<div class="header">
+	<h1> BEAUTY SALON </h1>
+</div>
+
+<div class="topnav">
+		<a href="#"> link </a>
+		<a href="#"> link </a>
+		<a href="#"> link </a>
+	</div>
+	<div>
+		<img src="gambar.jpg"lass="banner">
+	</div> 
+
+	<div class="row">
+		<div class="column">
+		 	<h1> Fasion Salon </h1>
+			<p>
+			Salon merupakan tempat untuk memperindah dan mempercantik tubuh, dengan perawatan yang baik dan bersih, maka dengan sendirinya terbentuk tubuh yang sehat. Pada kenyataannya Wanita cenderung memilih usaha yang sesuai dengan hobi wanita tersebut, salon adalah salah satu alternatif karena wanita suka merawat tubuh dan dan rambutnya sendiri.
+		</p>
+	</div>
+	
+	<div class="column">
+		<h1> Salon </h1>
+		<p>
+			Fungsi utama dari salon sendiri pastinya sebagai wadah atau tempat utama untuk menyediakan jasa dan layanan yang berhubungan dengan mempercantik fisik dan sekaligus melakukan perawatan tubuh.
+			tipe- tipe salon:
+			1.Beauty Salon
+			2.Hair Salon
+			3.Salon & Day Spa
+			4.Barber shop 
+			5. dll
+		</p>
+	</div>
+
+	<div class="column">
+		<h1> Manfaat Salon </h1>
+		<p>
+			Bisnis salon kecantikan adalah bisnis yang sangat menjanjikan jika kita bisa mengelolanya dengan baik. Karna banyak wanita yang ingin terlihat cantik dan sempurna. Dengan menggunakan produk-produk yang baik maka akan menambah pelanggan yang datang ke salon kecantikan kita. Lakukan perawatan yang baik kepada pelanggan karna kepuasaan pelanggan lah yang utama.
+		</p>
+	</div>
+</div>
+<div class="row">
+		<div class="column">
+		 	<h1> Fasion Salon </h1>
+			<p>
+			kecantikan wajah akan memadarkan kecantikan hati akan tetap abadi.
+
+		</p>
+	</div>
+	
+	<div class="column">
+		<h1> Salon </h1>
+		<p>
+			kecantikan terletak pada akhlak dan dan adab seseorang.
+		</p>
+	</div>
+
+	<div class="column">
+		<h1> Manfaat Salon </h1>
+		<p>
+			cantik itu pilihan.
+			ketulusan serta bahagia yang sesalu kau upayakan dalam kehidupan dan hatimu
+		</p>
+	</div>
+</div>
+
+<div class=" footer">
+		<p> Copyrigh @abel_Liana.com edited By Abel Liana</p>
+	</div>
+
+</body>
+</html>
