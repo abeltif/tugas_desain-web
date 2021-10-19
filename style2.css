@@ -1,0 +1,86 @@
+.header{
+	background-color: orange;
+	padding: 10px;
+	text-align: center;
+	color: blue;
+	text-transform: uppercase;
+}
+
+.topnav{
+	overflow: hidden;
+	background-color: gray;
+}
+
+.topnav a{
+	float: left;
+	display: black;
+	color: green;
+	text-align: center;
+	padding: 14px 15px;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.topnav a:hover {
+	background-color: red;
+	color: violet;
+}
+
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.column{
+	float: left;
+	width: 29%;
+	padding: 15px;
+	text-align: justify;
+}
+
+.footer {
+	background-color: orange;
+	padding: 18px;
+	text-align: center;
+}
+
+.footer p:hover{
+	background-color: orange;
+	color: violet;
+}
+
+.column2{
+	float: left;
+	width: 29%;
+	padding: 15px;
+	text-align: justify;
+}
+.column3{
+	float: left;
+	padding: 18px;
+	text-align: justify;
+}
+img{
+	width: 2000px;
+	height: 800px;
+	display: block;
+	margin-left:auto;
+	border-top-left-radius:20px;
+	border-bottom-right-radius: 20px;
+	border-color:blue;
+	border-width: 3px;
+	border-style: solid;
+}
+
+.banner{
+	background-color: violet;
+	padding: 10px;
+	margin-top:159px;
+}
+.fexed-nav{
+	overflow:hidden;
+	position:fixed;
+	top:0;
+	width: 100%;
+}
